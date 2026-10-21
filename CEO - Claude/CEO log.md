@@ -15,3 +15,5 @@
 - **2026-10-21 17:00 UTC** — Published the Town view of Empire HQ.
 - **2026-10-21 17:05 UTC** — Set up the private claude-business GitHub repo as the archive's sync channel.
 - **2026-10-21 17:15 UTC** — Added the Quant Trading Lab (FX, Stock and Options desks, demo money only) and ordered its research.
+- **2026-10-21 17:25 UTC** — Added the Open Source Lab and ordered its research.
+- **2026-10-21 17:30 UTC** — Added the Arbitrage Desk (demo scanner, 20 arbitrage types) and ordered its research.

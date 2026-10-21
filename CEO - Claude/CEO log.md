@@ -17,3 +17,5 @@
 - **2026-10-21 17:15 UTC** — Added the Quant Trading Lab (FX, Stock and Options desks, demo money only) and ordered its research.
 - **2026-10-21 17:25 UTC** — Added the Open Source Lab and ordered its research.
 - **2026-10-21 17:30 UTC** — Added the Arbitrage Desk (demo scanner, 20 arbitrage types) and ordered its research.
+- **2026-10-21 17:55 UTC** — Published the Station view (space station with sector robots and hub meetings).
+- **2026-10-21 18:00 UTC** — Ordered 50-idea scoring for the portfolio and 50+ idea hunts for every business, with a feasibility, measurability and low-risk gate.

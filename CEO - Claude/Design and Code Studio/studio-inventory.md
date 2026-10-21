@@ -109,7 +109,7 @@ cg-use-everywhere, ComfyUI-ConditioningKrea2Rebalance, ComfyUI-Custom-Scripts, C
 | ckpts\seed-vc | rmvpe.pt | 0.17 GB |
 | ckpts\seed-vc | campplus_cn_common.bin | 0.03 GB |
 | loras\ltx2 | ltx-2.5-22b-ic-lora-pixel-spatial-upscaler-x2-1.0.safetensors | 0.30 GB |
-| loras and loras\minimax_h3 (duplicated) | 11 adult/NSFW MiniMax-H3 LoRAs (0.14–0.29 GB each): cowgirl-side-2-mh3-e50-az420, h3-ultimatedt-step00026000-frenulum-69glans-k3nk, h3_base_fingering_v1.1-6000, HMMisDogV1.5, Minimax_H3_Unlocked_V2, "MM-H3 - Ahegao Face v3", "MM-H3 - Cameltoe v2", "MM-H3 - Fingering v4", "MM-H3 - Pillow Humping v3.1", MMH3_NSFW_Doggystyle_Sex_3354622_epoch_20, SynthPussy_MinimaxH3_v1 | ~2.3 GB per copy |
+| loras and loras\minimax_h3 (duplicated) | 11 adult/NSFW MiniMax-H3 LoRAs (file names omitted) | 0.14–0.29 GB each |
 | models\minimax_h3\lora_affine_maps | fl2va/ref2va/viggle rank8 + rank64 .sft | <0.01 GB |
 
 ## 4. Blender

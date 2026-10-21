@@ -14,3 +14,4 @@
 - **2026-10-21 16:55 UTC** — Ordered demand validation for every venture before any money is spent.
 - **2026-10-21 17:00 UTC** — Published the Town view of Empire HQ.
 - **2026-10-21 17:05 UTC** — Set up the private claude-business GitHub repo as the archive's sync channel.
+- **2026-10-21 17:15 UTC** — Added the Quant Trading Lab (FX, Stock and Options desks, demo money only) and ordered its research.

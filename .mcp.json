@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "blender": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "blender-mcp"
+      ],
+      "env": {
+        "UV_CACHE_DIR": "D:\\AI\\Tools\\uv-cache",
+        "UV_PYTHON_INSTALL_DIR": "D:\\AI\\Tools\\uv-python"
+      }
+    }
+  }
+}

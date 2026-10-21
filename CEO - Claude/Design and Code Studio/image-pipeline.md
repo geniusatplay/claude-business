@@ -25,3 +25,11 @@ Model: the newest OpenAI image model available on the account (check the models 
 - 9:16 (1024×1536) or 16:9 (1536×1024) scene, photographic, with the product shown accurately.
 - Use the real product photo as the edit reference so the garment matches what the buyer gets; disclose AI generation in the video and follow FTC affiliate disclosure rules.
 - Then animate the frame on the 4090 with Wan2GP.
+
+## Approved models on the 4090 PC (per Randy, 2026-10-21)
+- **Krea 2** (ComfyUI): approved for business images.
+- **MiniMax H3** (Wan2GP): approved for business video. Always render at **720p**, **15–20 seconds** per clip.
+- **LTX 2.5** (Wan2GP): video fallback.
+- **OpenAI image API**: print designs and video first frames.
+- **Not for business work:** FLUX.2 klein 9B, Depth Anything V2 Large, MatAnyone (non-commercial licenses), and all NSFW LoRAs.
+- Write all outputs to D: (C: is nearly full).

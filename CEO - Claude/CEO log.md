@@ -20,3 +20,4 @@
 - **2026-10-21 17:55 UTC** — Published the Station view (space station with sector robots and hub meetings).
 - **2026-10-21 18:00 UTC** — Ordered 50-idea scoring for the portfolio and 50+ idea hunts for every business, with a feasibility, measurability and low-risk gate.
 - **2026-10-21 18:20 UTC** — Florida check: Kalshi and Polymarket US allowed for non-sports contracts; Coinbase and Kraken licensed in Florida. Added the Etsy Print-on-Demand Shop and its 50+ idea hunt.
+- **2026-10-21 18:40 UTC** — Set models per role: managers, researchers and reviewers on Opus 5.5 medium; employees and helpers on Opus 5.5 low. Added agent definitions and CLAUDE.md.

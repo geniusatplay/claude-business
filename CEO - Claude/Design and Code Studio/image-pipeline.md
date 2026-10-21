@@ -23,7 +23,7 @@ Model: the newest OpenAI image model available on the account (check the models 
 
 ## Video first frames (affiliate clothing videos)
 - 9:16 (1024×1536) or 16:9 (1536×1024) scene, photographic, with the product shown accurately.
-- Use the real product photo as the edit reference so the garment matches what the buyer gets; disclose AI generation in the video and follow FTC affiliate disclosure rules.
+- Use Randy's own photo of the real product (or seller-provided assets with permission) as the edit reference, never Amazon listing images (Amazon's Associates policy bans altering them or using them for AI). The garment must match exactly. Label AI visuals, disclose #ad spoken and on screen, and keep opinions in Randy's own voice.
 - Then animate the frame on the 4090 with Wan2GP.
 
 ## Approved models on the 4090 PC (per Randy, 2026-10-21)
